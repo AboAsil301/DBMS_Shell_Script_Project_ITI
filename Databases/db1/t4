@@ -1,0 +1,3 @@
+id%int%Pk,name%string%,age%int%
+20,reda,27
+2,reda,28

@@ -1,0 +1,3 @@
+id%int%Pk,name%string%,age%int%
+1,ahmed,28
+3,Asil,2
